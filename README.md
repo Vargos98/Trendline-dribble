@@ -55,6 +55,7 @@ This project can be used as a reference for:
 <br/><br/>
 
 ![Mobile View] 
+<br/><br/>
 ![Screenshot 2024-06-13 104045](https://github.com/Vargos98/Trendline-dribble/assets/127929058/446d62f4-746f-4d61-8a29-f78f352dfb0f)
 <br/><br/>
 
