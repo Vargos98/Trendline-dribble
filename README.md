@@ -50,11 +50,9 @@ This project can be used as a reference for:
 
 ## Screenshots
 ![Desktop View] 
-![Screenshot 2024-06-13 104009](https://github.com/Vargos98/Trendline-dribble/assets/127929058/8ef77630-82aa-447c-a396-b57ab1ac98d1)
-<br/><br/>
+![Screenshot 2024-06-13 104900](https://github.com/Vargos98/Trendline-dribble/assets/127929058/f8bb7b30-580e-429d-a116-25e61e461f73)
 
 <br/><br/>
-*Description: Screenshot of the desktop view*
 
 ![Mobile View] 
 ![Screenshot 2024-06-13 104045](https://github.com/Vargos98/Trendline-dribble/assets/127929058/446d62f4-746f-4d61-8a29-f78f352dfb0f)
