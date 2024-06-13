@@ -1,3 +1,5 @@
+![Screenshot 2024-06-13 104009](https://github.com/Vargos98/Trendline-dribble/assets/127929058/ce3d5467-5bc1-4f6d-97b7-2d8b83642e95)
+
 Trendline - Website concept<br/><br/>
 Live Link : https://dribble-fashion-week.vercel.app/ <br/><br/>
 Dribble Link: https://dribbble.com/shots/5337169-Experiments-5
@@ -47,12 +49,16 @@ This project can be used as a reference for:
 - Creating responsive web designs
 
 ## Screenshots
-![Desktop View] <br/><br/>
+![Desktop View] 
+![Screenshot 2024-06-13 104009](https://github.com/Vargos98/Trendline-dribble/assets/127929058/8ef77630-82aa-447c-a396-b57ab1ac98d1)
+<br/><br/>
 
 <br/><br/>
 *Description: Screenshot of the desktop view*
 
-![Mobile View] <br/><br/>
+![Mobile View] 
+![Screenshot 2024-06-13 104045](https://github.com/Vargos98/Trendline-dribble/assets/127929058/446d62f4-746f-4d61-8a29-f78f352dfb0f)
+<br/><br/>
 
 <br/><br/>
 *Description: Screenshot of the mobile view*
