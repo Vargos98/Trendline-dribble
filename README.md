@@ -1,8 +1,8 @@
 ![Screenshot 2024-06-13 104009](https://github.com/Vargos98/Trendline-dribble/assets/127929058/ce3d5467-5bc1-4f6d-97b7-2d8b83642e95)
 
 Trendline - Website concept<br/><br/>
-Live Link : https://dribble-fashion-week.vercel.app/ <br/><br/>
-Dribble Link: https://dribbble.com/shots/5337169-Experiments-5
+Live Link : https://trendline-dribble.vercel.app/ <br/><br/>
+Dribble Link: https://dribbble.com/shots/5337169-Experiments-5/attachments/10813408?mode=media
 ---
 
 
