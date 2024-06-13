@@ -50,6 +50,7 @@ This project can be used as a reference for:
 
 ## Screenshots
 ![Desktop View] 
+<br/><br/>
 ![Screenshot 2024-06-13 104900](https://github.com/Vargos98/Trendline-dribble/assets/127929058/f8bb7b30-580e-429d-a116-25e61e461f73)
 
 <br/><br/>
