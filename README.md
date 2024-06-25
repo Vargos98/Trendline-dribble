@@ -7,7 +7,7 @@ Dribble Link: https://dribbble.com/shots/5337169-Experiments-5/attachments/10813
 
 
 ## Overview
-This project is a replication of a design I found on [Dribbble](https://dribbble.com/shots/5337169-Experiments-5) using HTML and CSS with a focus on CSS Grid Layout. The purpose of this project is to practice and showcase my front-end development skills, particularly in creating responsive and visually appealing layouts.
+This project is a replication of a design I found on [Dribbble](https://dribbble.com/shots/5337169-Experiments-5) using HTML and CSS with a focus on CSS Flexbox Layout. The purpose of this project is to practice and showcase my front-end development skills, particularly in creating responsive and visually appealing layouts.
 
 
 
